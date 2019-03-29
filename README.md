@@ -10,7 +10,7 @@
 $ sudo pip3 install pycuda
 ```
 <br>
-4.convert pb to uff
+4.convert pb to uff<br>
 ```
 import uff
 print(uff.__path__)
