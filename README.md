@@ -46,3 +46,4 @@ $ python3 sample.py
 $ python3 use_engine.py
 ```
 <br>
+![image]=https://github.com/zhucheng725/TX2-tensorRT5.0-python/blob/master/difference_calculating_time.png
