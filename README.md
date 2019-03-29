@@ -48,6 +48,4 @@ $ python3 use_engine.py
 
 ![image](https://github.com/zhucheng725/TX2-tensorRT5.0-python/blob/master/difference_calculating_time.png)
 
-![image](https://github.com/zhucheng725/Onboard_camera_tx2/blob/master/Screenshot%20from%202019-03-01%2015-49-05.png)
-
 Creating .engine can save lots of calculating time.
