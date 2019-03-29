@@ -10,7 +10,6 @@
 $ sudo pip3 install pycuda
 ```
 <br>
-
 4.convert pb to uff<br>
 
 ```
@@ -24,6 +23,7 @@ print(uff.__path__)
 python3 /usr/lib/python2.7/dist-packages/uff/bin/convert_to_uff.py --input_file = 'your_xxx.pb_path'
 ```
 <br>
+
 Change from .pb to .uff successfully.
 
 5.create the .engine<br>
