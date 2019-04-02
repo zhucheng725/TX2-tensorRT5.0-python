@@ -17,10 +17,10 @@ import uff
 print(uff.__path__)
 ```
 <br>
-['/usr/lib/python2.7/dist-packages/uff']<br>
+['/usr/lib/python3.6/dist-packages/uff']<br>
 
 ```
-python3 /usr/lib/python2.7/dist-packages/uff/bin/convert_to_uff.py --input_file = 'your_xxx.pb_path'
+python3 /usr/lib/python3.6/dist-packages/uff/bin/convert_to_uff.py --input_file = 'your_xxx.pb_path'
 ```
 <br>
 
