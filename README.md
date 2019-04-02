@@ -20,7 +20,7 @@ print(uff.__path__)
 ['/usr/lib/python3.6/dist-packages/uff']<br>
 
 ```
-python3 /usr/lib/python3.6/dist-packages/uff/bin/convert_to_uff.py --input_file = 'your_xxx.pb_path'
+python3 /usr/lib/python3.6/dist-packages/uff/bin/convert_to_uff.py your_xxx.pb_path
 ```
 <br>
 
